@@ -1,0 +1,254 @@
+Done: 403 /var/www/html/php_lab/
+Error: request file is not a regular file or user has no read permission
+Done: 403 /var/www/html/php_lab/
+Error: request file is not a regular file or user has no read permission
+Error: Child exited with error status
+Done: 404 /var/www/html/php_lab/hrllo.htm
+Error: request file not exist
+Error: Child exited with error status
+Error: Child exited with error status
+Done: 404 /var/www/html/php_lab/hre
+Error: request file not exist
+Error: Child exited with error status
+Error: Child exited with error status
+Error: Child exited with error status
+Done: 200 /var/www/html/php_lab/hello.html
+Error: Child exited with error status
+Error: Child exited with error status
+Error: Child exited with error status
+Error: Child exited with error status
+Done: 200 /var/www/html/php_lab/hello.html
+Error: Child exited with error status
+Error: Child exited with error status
+Error: Child exited with error status
+Error: Child exited with error status
+Error: Accept failed
+Done: 200 /var/www/html/php_lab/hello.html
+Done: 200 /var/www/html/php_lab/hello.html
+Done: 404 /var/www/html/php_lab/hello.htm
+Error: request file not exist
+Done: 404 /var/www/html/php_lab/hello.htm
+Error: request file not exist
+Done: 403 /var/www/html/php_lab/
+Error: request file is not a regular file or user has no read permission
+Done: 403 /var/www/html/php_lab/
+Error: request file is not a regular file or user has no read permission
+Error: Accept failed
+Done: 404 /var/www/html/php_lab/status
+Error: request file not exist
+Done: 404 /var/www/html/php_lab/status
+Error: request file not exist
+Error: Accept failed
+Done: 404 /var/www/html/php_lab/status
+Error: request file not exist
+Error: Accept failed
+Done: 404 /var/www/html/php_lab/status
+Error: request file not exist
+Error: Accept failed
+Done: 404 /var/www/html/php_lab/status
+Error: request file not exist
+Done: 404 /var/www/html/php_lab/status
+Error: request file not exist
+Error: Accept failed
+Done: 404 /var/www/html/php_lab/status
+Error: request file not exist
+Done: 404 /var/www/html/php_lab/status
+Error: request file not exist
+Error: Accept failed
+Done: 404 /var/www/html/php_lab/status
+Error: request file not exist
+Done: 404 /var/www/html/php_lab/status
+Error: request file not exist
+Error: Accept failed
+Done: 404 /var/www/html/php_lab/status
+Error: request file not exist
+Done: 404 /var/www/html/php_lab/status
+Error: request file not exist
+Error: Accept failed
+Done: 404 /var/www/html/php_lab/status
+Error: request file not exist
+Error: Accept failed
+Done: 404 /var/www/html/php_lab/status
+Error: request file not exist
+Error: Accept failed
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 404 /var/www/html/php_lab/statu
+Error: request file not exist
+Done: 200 /var/www/html/php_lab/status
+Error: Accept failed
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Error: Accept failed
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Error: Accept failed
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Error: Accept failed
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 403 /var/www/html/php_lab/
+Error: request file is not a regular file or user has no read permission
+Done: 403 /var/www/html/php_lab/
+Error: request file is not a regular file or user has no read permission
+Done: 404 /var/www/html/php_lab/s
+Error: request file not exist
+Done: 404 /var/www/html/php_lab/s
+Error: request file not exist
+Done: 404 /var/www/html/php_lab/satus
+Error: request file not exist
+Done: 200 /var/www/html/php_lab/status
+Error: Accept failed
+Done: 403 /var/www/html/php_lab/
+Error: request file is not a regular file or user has no read permission
+Done: 403 /var/www/html/php_lab/
+Error: request file is not a regular file or user has no read permission
+Done: 404 /var/www/html/php_lab/statu
+Error: request file not exist
+Done: 404 /var/www/html/php_lab/statu
+Error: request file not exist
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/hello.html
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Error: Accept failed
+Error: Accept failed
+Done: 200 /var/www/html/php_lab/sta
+Done: 200 /var/www/html/php_lab/sta
+Done: 200 /var/www/html/php_lab/statu
+Done: 200 /var/www/html/php_lab/statu
+Error: Accept failed
+Done: 200 /var/www/html/php_lab/statu
+Done: 200 /var/www/html/php_lab/statu
+Done: 200 /var/www/html/php_lab/statu
+Done: 200 /var/www/html/php_lab/statu
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 404 /var/www/html/php_lab/stat
+Error: request file not exist
+Done: 200 /var/www/html/php_lab/statu
+Done: 200 /var/www/html/php_lab/statu
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 404 /var/www/html/php_lab/statu
+Error: request file not exist
+Done: 403 /var/www/html/php_lab/
+Error: request file is not a regular file or user has no read permission
+Done: 403 /var/www/html/php_lab/
+Error: request file is not a regular file or user has no read permission
+Done: 404 /var/www/html/php_lab/statu
+Error: request file not exist
+Done: 200 /var/www/html/php_lab/status
+Error: Accept failed
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 404 /var/www/html/php_lab/statu
+Error: request file not exist
+Done: 404 /var/www/html/php_lab/statu
+Error: request file not exist
+Done: 403 /var/www/html/php_lab/
+Error: request file is not a regular file or user has no read permission
+Done: 403 /var/www/html/php_lab/
+Error: request file is not a regular file or user has no read permission
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/hello.html
+Done: 200 /var/www/html/php_lab/hello.html
+Done: 200 /var/www/html/php_lab/status
+Error: Accept failed
+Done: 404 /var/www/html/php_lab/php_lab/hello.html
+Error: request file not exist
+Done: 404 /var/www/html/php_lab/favicon.ico
+Error: request file not exist
+Done: 404 /var/www/html/php_lab/php_lab/hello.html
+Error: request file not exist
+Done: 200 /var/www/html/php_lab/hello.html
+Done: 200 /var/www/html/php_lab/hello.html
+Done: 403 /var/www/html/php_lab/
+Error: request file is not a regular file or user has no read permission
+Done: 403 /var/www/html/php_lab/
+Error: request file is not a regular file or user has no read permission
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Error: Accept failed
+Done: 200 /var/www/html/php_lab/hello.html
+Done: 200 /var/www/html/php_lab/hello.html
+Done: 403 /var/www/html/php_lab/
+Error: request file is not a regular file or user has no read permission
+Done: 403 /var/www/html/php_lab/
+Error: request file is not a regular file or user has no read permission
+Done: 403 /var/www/html/php_lab/
+Error: request file is not a regular file or user has no read permission
+Done: 404 /var/www/html/php_lab/statu
+Error: request file not exist
+Done: 404 /var/www/html/php_lab/statu
+Error: request file not exist
+Done: 404 /var/www/html/php_lab/statu
+Error: request file not exist
+Done: 404 /var/www/html/php_lab/statu
+Error: request file not exist
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Error: Accept failed
+Error: Accept failed
+Error: fail to wait child
+Done: 200 /var/www/html/php_lab//status
+Done: 200 /var/www/html/php_lab//status
+Done: 200 /var/www/html/php_lab//status
+Done: 200 /var/www/html/php_lab//status
+Done: 200 /var/www/html/php_lab//status
+Error: Accept failed
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Error: Accept failed
+Done: 404 /var/www/html/php_lab/statu
+Error: request file not exist
+Done: 404 /var/www/html/php_lab/statu
+Error: request file not exist
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 200 /var/www/html/php_lab/status
+Done: 403 /var/www/html/php_lab/
+Error: request file is not a regular file or user has no read permission
+Done: 403 /var/www/html/php_lab/
+Error: request file is not a regular file or user has no read permission
+Done: 200 /var/www/html/php_lab/hello.html
+Done: 200 /var/www/html/php_lab/hello.html
+Done: 200 /var/www/html/php_lab/status
+Error: Accept failed
